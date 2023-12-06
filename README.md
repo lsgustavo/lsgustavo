@@ -31,7 +31,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas.
   <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </div>
 
 <br>
@@ -48,15 +48,3 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas.
 </div>
 
 <br>
-
-
-<details>
- <summary><h3><code>💻</code> Minha Jornada</h3></summary>
-  
-  <br>
-  
-  <p> Meus primeiros passos no desenvolvimento foram voltados para projetos Front-end, onde iniciei meu aprendizado com HTML, CSS e JavaScript para criar sites simples e estáticos. Com o tempo, fui me aprofundando e me desafiando com projetos cada vez mais complexos, buscando sempre criar interfaces amigáveis, interativas e responsivas. Essa etapa inicial foi essencial para construir uma base sólida de conhecimentos e despertar mais o meu interesse pela programação.</p>  
- 
-  <p> Em 2021, ingressei no curso técnico em informática. Essa escolha me proporcionou um grande aprendizado, pois pude expandir meus horizontes na área de tecnologia da informação. Durante o curso, estudei outras linguagens e frameworks, busquei entender melhor a lógica de programação e aprofundei meus conhecimentos em algoritmos e bancos de dados.</p>
-  
-
