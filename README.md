@@ -38,8 +38,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 #
 
-### <code>📊</code> Estatísticas
-
+### <code>📊</code>
 <br>
 
 <div align="center">
