@@ -1,4 +1,4 @@
- # <code>👨🏻‍💻</code> Luís Gustavo Berti
+ # Luís Gustavo Berti
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=EC0B43&lines=Web+Developer;Full+Stack)](https://git.io/typing-svg)
 
