@@ -1,5 +1,7 @@
  # Luís Gustavo Berti
 
+- 🔭 Aprimorando minhas habilidades com algoritmos regularmente.
+
 <br>
 
 <div align="left">
